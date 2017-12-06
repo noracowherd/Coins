@@ -9,7 +9,8 @@ Ancient Coins
 
         We are investigating the reason behind the differences in geographical location of coin hoards that contain coins minted in Athens in the Classical and Hellenistic periods. The Classical period lasted from 510 BC to 323 BC, while the Hellenistic period lasted from 323 BC to 31 BC. These adjacent time periods show some significant differences in the geographical location of hoards that contain coins minted in Athens. Since Ancient Greece was more fragmented than Ancient Rome, with separate and autonomous city states for most of Grecian history, it will be interesting to investigate whether intercity-state relations played a role in the distribution of Athenian coinage. 
         One possible error in data we must keep in mind is that coin hoards sometimes reflect money that has been stored in the family for centuries (across both the Classical and Hellenistic periods)  which could cause some outliers in the data displayed.
-        The data images from Tableau are displayed below;  
+        The link to our data will be attached below;
+        https://public.tableau.com/profile/neel.smith#!/vizhome/IGCHgeolocatemints/Mintsforhoard
   
 
 
