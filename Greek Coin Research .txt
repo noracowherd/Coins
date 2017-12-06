@@ -1,0 +1,30 @@
+﻿Nora Cowherd
+Tyler Ransom
+5 December 2017
+Ancient Coins
+
+
+        Hellenistic versus Classical Greek Coin Hoards 
+
+
+        We are investigating the reason behind the differences in geographical location of coin hoards that contain coins minted in Athens in the Classical and Hellenistic periods. The Classical period lasted from 510 BC to 323 BC, while the Hellenistic period lasted from 323 BC to 31 BC. These adjacent time periods show some significant differences in the geographical location of hoards that contain coins minted in Athens. Since Ancient Greece was more fragmented than Ancient Rome, with separate and autonomous city states for most of Grecian history, it will be interesting to investigate whether intercity-state relations played a role in the distribution of Athenian coinage. 
+        One possible error in data we must keep in mind is that coin hoards sometimes reflect money that has been stored in the family for centuries (across both the Classical and Hellenistic periods)  which could cause some outliers in the data displayed.
+        The data images from Tableau are displayed below;  
+  
+
+
+
+        We chose to focus on Athenian coinage specifically due to their long history of political and economic prominence. The oldest coins manufactured in the Western world would have been struck along the west coast of Asia Minor (present-day Turkey) during the 7th and 6th centuries BC. Shortly afterwards, coins appeared on mainland Greece (city-states in central Greece, northern Greece, and island of Siphnos were among the first to strike coins. The earliest coins to be struck were the didrachms struck around 560-550 BC. About 500 BC the tetradrachm emerged with a portrait of the goddess Athena on the obverse side and a depiction of an owl on the reverse. Over proceeding centuries, the tetradrachm developed into a type of “international” form of currency across the Mediterranean world. Indeed, the success of the tetradrachm can be attributed to the coin’s notable aesthetic and the already well-established money economy. The series of Athenian coins made up no less than 15 (later 16) different denominations. The widespread usage of Athenian coinage specifically is a testament of the commercial and political preeminence of the Athenian city-state. [1]
+The data showing the spread of these coins in the Classical and Hellenistic eras is similar in the Western part of the Greek world. Though in the Eastern part of the map there is an interesting development that occurs during the Hellenistic period. It is clear that the coinage spreads East in a large frequency, resulting in more coin hoards in the East and some of these coin hoards pushing farther east. The context of this historical time period is that the Hellenistic period begins after the death of Alexander the Great. Alexander was a Macedonian King known for conquering much of the world including the Greek city-states. He also pushed his campaign East farther than any Macedonian King or Greek city state had gone before.[2] Since 323 BC marks both the death of Alexander and the beginning of the Hellenistic period it is not surprising that the coinage of Athens would move east to the new provinces which the Western world made contact with. 
+        After Alexander the Great’s death, the Eastern provinces were not abandoned by his successors. In fact, his successors divided up his enormous empire between them. This would explain the gradual eastern migration of Athenian coinage. Seleucus was one of the “Diadochi” (Greek for successors) that participated in the division of Alexander’s Empire. He gained control of the eastern provinces and his royal line eventually became the prominent Seleucid Empire that had control of the Eastern provinces during the Hellenistic period of ancient history. The Seleucid Empire was racked by rebellions and wars within the Eastern provinces which would explain an increase of coin hoards in the eastern part of the Hellenistic world. Although the Seleucid Empire would fall due to dynastic struggles and Roman interference, the legacy of Hellenism remained “strong” in the eastern provinces as a result of two centuries of Hellenistic rule.[3]
+Through the examination of the geographical dispersion of coin hoards that contain Athenian coinage it is apparent that the expansion of Alexander and the prominence of the Seleucid empire can explain the eastward movement of the coin hoards containing coins minted in Athens. Coin hoards can be either an indication of a family’s buried wealth or an indication of a quick attempt to flee and protect whatever wealth the family had. Both scenarios would make sense in this case. There were many uprisings and conflicts that the Seleucid empire struck down during their reign, and there was prominence and wealth within the Seleucid empire. Coin hoards are an interesting way to map history since they show physical evidence of shifts in power and wealth within the ancient world. This specific example highlights the successful eastern expansion started by Alexander and carried on by the Seleucid Empire.
+
+
+
+
+________________
+[1] De Vos, Sarah. “Museum of the National Bank of Belgium.” The Athenian drachma, a long tradition … from antique coin to euro — Museum of the National Bank of Belgium, www.nbbmuseum.be/en/2008/12/drachma.htm.
+[2] Mark, Joshua. “Alexander the Great.” Ancient History Encyclopedia, www.ancient.eu/Alexander_the_Great/.
+
+
+[3] Simonin, Antoine. “Seleucid Empire.” Ancient History Encyclopedia, www.ancient.eu/Seleucid_Empire/.
